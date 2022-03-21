@@ -10,4 +10,4 @@ Segment a: PA1, Segment b: PA2, Segment c: PA3, Segment d: PA4, Segment e: PA5, 
 Vaš prikazovalnik je s skupno katodo.
 Kaj dela ukaz GPIOA -> ODR?  GPIOA nastavi odrodr na 16 bitni register
 
-Komentar: 
+Komentar: Z kodo nisva imela večjih težav, vendar nisva imela časa dokončati vezavo in posneti delovanje
